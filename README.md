@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently a Computing Science student at the Singapore Institute of Technology
-- 🌱 I’m currently learning Data Analytics and Cloud Computing
+- 🌱 I’m currently learning Machine Learning and Information Visualisation
 - 📫 How to reach me: syabilsoedirman@gmail.com
 - ⚡ Fun fact: I like coding web and mobile applications
 
